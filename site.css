@@ -7,9 +7,11 @@ h1, h2, h3, h4, h5, h6 {font-weight: bold;}
 ul, ol { padding: 0 0 0 20px; list-style: disc; }
 ol { list-style: decimal; }
 h1 { font-size: 32px; }
-h3 { font-size: 24px; }
-h4 { font-size: 20px; }
-h5 { font-size: 16px; }
+h2 { font-size: 24px; }
+h3 { font-size: 20px; }
+h4 { font-size: 16px; }
+h5 { font-size: 12px; }
+h6 { font-size: 8px; }
 p {
   font-size: 16px;
   font-weight: 100;
