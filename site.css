@@ -15,3 +15,25 @@ p {
   font-weight: 100;
   line-height: 26px;
 }
+
+.pagination{
+  display: inline-block;
+  border-radius: 4px;
+  height:36px;
+}
+
+.pagination .page{
+  height:100%;
+  display:inline-block;
+  list-style-type:none;
+  transition:all 0.1s ease 0s;
+}
+.pagination .page a {
+    display:block;
+    padding:0 2px;
+    height:100%;
+    line-height:36px;
+    font-weight:bold;
+    text-decoration: None;
+    transition:all 0.1s ease 0s;
+}
